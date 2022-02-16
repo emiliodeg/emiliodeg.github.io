@@ -5,8 +5,8 @@ front end developer. I have a little personal page with more data about [my life
 
 ## Little applications
 
-- [Prettier rc file generator](/prettierrc)
-- [Collatz numbers generator](/collatz-app)
+- [Prettier rc file generator](https://emiliodeg.github.io/prettierrc)
+- [Collatz numbers generator](https://emiliodeg.github.io/collatz-app)
 
 ## Packages
 
